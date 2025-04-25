@@ -14,7 +14,7 @@ function App() {
       image: 'power_diffusion.png', // AI-generated image placeholder
       imageAlt: 'Mapa del mundo con los centros de poder resaltados',
       icons: ['globe', 'factory', 'media'], // FontAwesome icon names (or similar)
-      quote: '"Quote from Said about power centers"'
+      quote: '"Cita de Edward Said acerca de los centro de poder"'
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ function App() {
       image: 'consensus_manufacturing.png', // AI-generated image placeholder
       imageAlt: 'Embudo que convierte la información en narraciones',
       icons: ['brain', 'assembly-line', 'megaphone'], // FontAwesome icon names
-      quote: '"Quote from Said about manufactured consent"'
+      quote: '"Cita de Said sobre el consentimiento fabricado"'
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ function App() {
       image: 'cultural_battlefield.png', // AI-generated image placeholder
       imageAlt: 'Intersección de narrativas globales y experiencias locales',
       icons: ['people', 'shield', 'flag'], // FontAwesome icon names
-      quote: '"Quote from Said about cultural resistance"'
+      quote: '"Cita de Said sobre la resistencia cultural"'
     },
     {
       id: 4,
