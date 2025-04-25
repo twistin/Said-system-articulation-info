@@ -12,7 +12,7 @@ function App() {
       title: 'Centros de Poder y Difusión',
       description: 'Los centros metropolitanos crean y difunden narrativas globales a través de fábricas intelectuales y medios de comunicación.',
       image: 'power_diffusion.png', // AI-generated image placeholder
-      imageAlt: 'World map with power centers highlighted',
+      imageAlt: 'Mapa del mundo con los centros de poder resaltados',
       icons: ['globe', 'factory', 'media'], // FontAwesome icon names (or similar)
       quote: '"Quote from Said about power centers"'
     },
@@ -21,7 +21,7 @@ function App() {
       title: 'Fabricando Consenso',
       description: 'Las \'fábricas intelectuales\' transforman información en narrativas que resuenan globalmente.',
       image: 'consensus_manufacturing.png', // AI-generated image placeholder
-      imageAlt: 'Funnel converting information into narratives',
+      imageAlt: 'Embudo que convierte la información en narraciones',
       icons: ['brain', 'assembly-line', 'megaphone'], // FontAwesome icon names
       quote: '"Quote from Said about manufactured consent"'
     },
@@ -30,7 +30,7 @@ function App() {
       title: 'Campo de Batalla Cultural',
       description: 'Las comunidades locales enfrentan las narrativas globales de dos maneras: subordinación o resistencia creativa.',
       image: 'cultural_battlefield.png', // AI-generated image placeholder
-      imageAlt: 'Intersection of global narratives and local experiences',
+      imageAlt: 'Intersección de narrativas globales y experiencias locales',
       icons: ['people', 'shield', 'flag'], // FontAwesome icon names
       quote: '"Quote from Said about cultural resistance"'
     },
@@ -39,18 +39,18 @@ function App() {
       title: 'Reclamando la Narrativa',
       description: 'La resistencia se manifiesta en la creación de contra-narrativas que desafían las definiciones impuestas.',
       image: 'reclaiming_narrative.png', // AI-generated image placeholder
-      imageAlt: 'Tree representing local experiences leading to new narratives',
+      imageAlt: 'Árbol que representa experiencias locales que dan lugar a nuevas narrativas',
       icons: ['book', 'microphone', 'brush', 'music'], // FontAwesome icon names
-      quote: '"Quote from Said about reclaiming narratives"'
+      quote: '"Cita de Said sobre la reivindicación de las narrativas"'
     },
     {
       id: 5,
       title: 'Navegando el Laberinto',
       description: 'Los intelectuales deben analizar críticamente el sistema de articulación y empoderar las voces marginadas.',
-      image: 'navigating_labyrinth.svg', // AI-generated image placeholder
-      imageAlt: 'Person navigating a maze with a compass',
+      image: 'navegando_laberinto.svg', // AI-generated image placeholder
+      imageAlt: 'Persona navegando por un laberinto con una brújula',
       icons: ['search', 'balance', 'book'], // FontAwesome icon names
-      quote: '"Quote from Said about intellectual responsibility"'
+      quote: '"Cita de Said sobre la responsabilidad intelectual"'
     }
   ];
 
