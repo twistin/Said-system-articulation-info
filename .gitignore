@@ -22,7 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
+echo "node_modules/" >> .gitignore
+git add .gitignore
+git commit -m "Ignorar node_modules"
 
 .DS_Store
 *.log
