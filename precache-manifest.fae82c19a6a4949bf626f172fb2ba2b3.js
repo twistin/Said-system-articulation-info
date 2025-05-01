@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d4a1a935ca994cfc7680bd685b0b2f0",
+    "revision": "6193b9cce4f7df545ef00b334b42dea7",
     "url": "/Said-system-articulation-info/index.html"
   },
   {
-    "revision": "7d15b0b7f66bdee89236",
+    "revision": "de033b3ff724cf2dc17b",
     "url": "/Said-system-articulation-info/static/css/main.6292832c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Said-system-articulation-info/static/js/3.a29efab2.chunk.js"
   },
   {
-    "revision": "7d15b0b7f66bdee89236",
-    "url": "/Said-system-articulation-info/static/js/main.09825472.chunk.js"
+    "revision": "de033b3ff724cf2dc17b",
+    "url": "/Said-system-articulation-info/static/js/main.d20005dd.chunk.js"
   },
   {
     "revision": "e2d47f7cf2c6f67caeaa",

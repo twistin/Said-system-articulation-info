@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Said-system-articulation-info/static/css/main.6292832c.chunk.css",
-    "main.js": "/Said-system-articulation-info/static/js/main.09825472.chunk.js",
-    "main.js.map": "/Said-system-articulation-info/static/js/main.09825472.chunk.js.map",
+    "main.js": "/Said-system-articulation-info/static/js/main.d20005dd.chunk.js",
+    "main.js.map": "/Said-system-articulation-info/static/js/main.d20005dd.chunk.js.map",
     "runtime~main.js": "/Said-system-articulation-info/static/js/runtime~main.9b177e35.js",
     "runtime~main.js.map": "/Said-system-articulation-info/static/js/runtime~main.9b177e35.js.map",
     "static/js/2.c7821bdd.chunk.js": "/Said-system-articulation-info/static/js/2.c7821bdd.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a29efab2.chunk.js": "/Said-system-articulation-info/static/js/3.a29efab2.chunk.js",
     "static/js/3.a29efab2.chunk.js.map": "/Said-system-articulation-info/static/js/3.a29efab2.chunk.js.map",
     "index.html": "/Said-system-articulation-info/index.html",
-    "precache-manifest.2f22cbe91cf77a90d940783a01d19619.js": "/Said-system-articulation-info/precache-manifest.2f22cbe91cf77a90d940783a01d19619.js",
+    "precache-manifest.fae82c19a6a4949bf626f172fb2ba2b3.js": "/Said-system-articulation-info/precache-manifest.fae82c19a6a4949bf626f172fb2ba2b3.js",
     "service-worker.js": "/Said-system-articulation-info/service-worker.js",
     "static/css/main.6292832c.chunk.css.map": "/Said-system-articulation-info/static/css/main.6292832c.chunk.css.map"
   }

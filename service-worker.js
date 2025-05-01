@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Said-system-articulation-info/precache-manifest.2f22cbe91cf77a90d940783a01d19619.js"
+  "/Said-system-articulation-info/precache-manifest.fae82c19a6a4949bf626f172fb2ba2b3.js"
 );
 
 self.addEventListener('message', (event) => {
