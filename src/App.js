@@ -1,6 +1,6 @@
 
 
-
+// comentario
 
 import React from 'react';
 import './App.css';
@@ -47,7 +47,7 @@ function App() {
       id: 5,
       title: 'Navegando el Laberinto',
       description: 'Los intelectuales deben analizar críticamente el sistema de articulación y empoderar las voces marginadas.',
-      image: 'navegando_laberinto.png', // AI-generated image placeholder
+      image: '/navegando_laberinto.png', // AI-generated image placeholder
       imageAlt: 'Persona navegando por un laberinto con una brújula',
       icons: ['search', 'balance', 'book'], // FontAwesome icon names
       quote: '"Cita de Said sobre la responsabilidad intelectual"'
